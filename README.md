@@ -3,8 +3,6 @@
 
 <br>
 <br>
-## 📊 Github Stats
-
 
 
   <summary><b>💻 GitHub Profile Stats</b></summary>
