@@ -1,2 +1,5 @@
 ### Hi there 👋
-<img src="https://img.shields.io/badge/김성현-#323232?style=plastic&logo=hi&logoColor=#ffffff"/>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shkim787&theme=algolia" alt="shkim787" /></p>
+
+<br>
+<br>
